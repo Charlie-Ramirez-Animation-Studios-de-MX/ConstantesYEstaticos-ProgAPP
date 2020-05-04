@@ -1,5 +1,5 @@
 # ConstantesYEstaticos-ProgAPP
-Constantes y estaticos
+Constantes y estaticos Programa durante las Clases en Linea via Clasroom CoVID-19. del jueves, 30 de abril de 2020 15:09:43 CDT
 
 
 								Licencia MIT, 
